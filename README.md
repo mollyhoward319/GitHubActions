@@ -33,7 +33,7 @@ Your GitHub Actions for deployments should look similar to the image below:
 
 You will want to have two separate YAML files: one configured to execute GitHub Actions for tests when a Pull Request is made to the develop branch and the other configured to execute GitHub Actions to automatically deploy to Render when develop is merged to main branch.
  
-Deployed App on Render: [[https://kanbanboard-454x.onrender.com/](https://githubactions-mfou.onrender.com)]
+ [Deployed App on Render:](https://githubactions-mfou.onrender.com)]
 
 ## License
 
